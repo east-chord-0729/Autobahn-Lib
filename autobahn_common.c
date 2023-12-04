@@ -1,5 +1,8 @@
 #include "autobahn_common.h"
 
+#pragma warning(disable: 28182)
+#pragma warning(disable: 6308)
+
 /**
  * @brief Allocates memory for a new Bigint.
  * 

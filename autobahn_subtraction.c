@@ -1,5 +1,8 @@
 #include "autobahn.h"
 
+#pragma warning(disable: 28182)
+#pragma warning(disable: 6308)
+
 /**
  * @brief Perform word subtraction with borrow.
  * 
