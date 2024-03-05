@@ -16,6 +16,8 @@ void gmp_benchmark(uint32_t bit_length)
     double time_result;
     size_t count = 100;
 
+    
+
     /* Allocate memory */
     mpz_init(operand_x);
     mpz_init(operand_y);

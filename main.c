@@ -1,6 +1,6 @@
 #include "autobahn.h"
 
-/*-- sample code list --*/
+/* sample code list */
 void addition_and_subtraction()
 {
     printf("Sample Code of Addition and Subtraction...\n");
@@ -279,7 +279,7 @@ void modular_exponentiation()
 
 int main()
 {
-    /** @brief Sample Code */
+    /* Sample Code */
     addition_and_subtraction();
     multiplication();
     squaring();
